@@ -911,9 +911,10 @@ contact.html
 ```
 
 ## OUTPUT:
-![alt text](home.png)
-![alt text](person.png)
-![alt text](product.png)
-![alt text](contact.png)
+![HOME (1)](https://github.com/Hafeezuldeen/softweb/assets/144979314/4988e7f4-c824-431e-a643-0d7833e0c3f3)
+![PRODUCT](https://github.com/Hafeezuldeen/softweb/assets/144979314/24654373-ff9b-47b7-881f-f70bc0a26ce7)
+![PERSON](https://github.com/Hafeezuldeen/softweb/assets/144979314/ed9a758a-26e5-4558-8a37-9bfeac7c59bf)
+![CONTACT](https://github.com/Hafeezuldeen/softweb/assets/144979314/7c901ce4-4040-4a31-8e6f-e4a7f566c642)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
